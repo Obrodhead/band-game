@@ -1,0 +1,19 @@
+.navbar{
+width: 100%;
+ display: flex;
+ text-align: center;
+ position: fixed;
+ padding: 2rem 0 1rem 0;
+ background-color: #443aa5;
+ color: #ffffff;
+ font-size: 2rem;
+}
+ul {
+width: 100%;
+display: inline-flex;
+list-style: none;
+}
+
+.navbar li {
+  width: 33.3%;
+}
